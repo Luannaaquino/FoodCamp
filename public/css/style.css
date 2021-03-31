@@ -1,0 +1,25 @@
+body {
+    background-color: #EEEEEE;
+}
+
+header {
+    background-color: #CF2B2B;
+    color: #FFFFFF;
+    backface-visibility: hidden;
+    width: 100vw;
+    padding: 15px 0 15px 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.7);
+    z-index: 2;
+}
+
+header h1{
+    font-size: 40px;
+    font-weight: 200;
+}
+
+  header h3{
+    font-size: 17px;
+}
