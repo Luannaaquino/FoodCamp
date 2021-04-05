@@ -29,6 +29,7 @@ header h3{
 main {
     margin: 120px 0;
     width: 100%;
+    overflow:scroll;
 }
 
 .titulo {
